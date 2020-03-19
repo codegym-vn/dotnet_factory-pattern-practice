@@ -1,0 +1,11 @@
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Factory\bin\Debug\netcoreapp3.1\Practice_Factory.exe
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Factory\bin\Debug\netcoreapp3.1\Practice_Factory.deps.json
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Factory\bin\Debug\netcoreapp3.1\Practice_Factory.runtimeconfig.json
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Factory\bin\Debug\netcoreapp3.1\Practice_Factory.runtimeconfig.dev.json
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Factory\bin\Debug\netcoreapp3.1\Practice_Factory.dll
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Factory\bin\Debug\netcoreapp3.1\Practice_Factory.pdb
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Factory\obj\Debug\netcoreapp3.1\Practice_Factory.csprojAssemblyReference.cache
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Factory\obj\Debug\netcoreapp3.1\Practice_Factory.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Factory\obj\Debug\netcoreapp3.1\Practice_Factory.AssemblyInfo.cs
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Factory\obj\Debug\netcoreapp3.1\Practice_Factory.dll
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Factory\obj\Debug\netcoreapp3.1\Practice_Factory.pdb
